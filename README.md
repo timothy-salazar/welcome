@@ -1,6 +1,5 @@
 # Timothy Salazar
 linkedIn: https://www.linkedin.com/in/timothy-salazar/
-
 email: timothy.salazar@colorado.edu
 
 ## About Me
