@@ -12,7 +12,9 @@ My undergraduate degree was Geography with a minor in Ecology and Evolutionary B
 ## Projects
 ### [Water Bugs](https://github.com/timothy-salazar/water-bugs "Water Bugs Repository")
 <img src="images/plecoptera_site_1.png" height=300><img src="images/transfer-learning.jpg" height=300>
+
 This is my capstone project. I wanted to build a model that could identify benthic macroinvertebrates, which are stream insects that are commonly used to gauge water quality. I scraped 9000 images of benthic macroinvertebrates from the web, processed them using Numpy and Scikit-Image, and then used them to train a Convolutional Neural Network (CNN). I built the network with the Keras deep learning library, and used existing weights from the VGG-16 model for feature extraction. The network was trained on an AWS instance, and it was able to achieve 90% accuracy, precision, and recall between orders.
 ### [Light Controls with a Raspberry Pi](https://github.com/timothy-salazar/light_controls "Light Controls Repository")
 <img src="images/light_control_setup.jpg" height=300><img src="images/light_control_webpage.png" height=300>
+
 This is an older project which I started in early 2017, a few months before I enrolled the Galvanize Data Science Immersive. I recently had time to finish it, and I'm fairly proud of the final results. It allows the user to control RGB LED strips through a Flask web application hosted on a local network. 
